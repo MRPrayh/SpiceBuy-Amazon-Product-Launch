@@ -1,2 +1,7 @@
-# SpiceBuy-Amazon-Listing-Price-Recommender
-Recommends the Selling Prices at which the products of a new (fictional) brand called SpiceBuy is to be launched on Amazon.
+# SpiceBuy-Amazon-Product-Launch
+SpiceBuy is a (fictional) startup sourcing their product from Wayanad district of Kerala, India aiming to deliver organically grown and processed spices and wellness products.
+
+## Optimizing Pricing Strategy for Amazon India
+- Developed Excel-based pricing and profitability calculator for 250+ SKUs and recommended optimal MOQs or Combo strategies to prevent unit-level losses and improve margins.
+- Conducted competitor pricing analysis across Amazon India, Flipkart and JioMart whilst analyzing our cost structures and suggested pricing revisions and packaging adjustments to achieve an average of 15-20% profit margins.
+

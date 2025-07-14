@@ -1,5 +1,5 @@
 # SpiceBuy-Amazon-Product-Launch
-SpiceBuy is a (fictional) startup sourcing their product from Wayanad district of Kerala, India aiming to deliver organically grown and processed spices and wellness products.
+SpiceBuy is a (fictional) startup sourcing their product from Wayanad district of Kerala, India aiming to deliver organically grown and processed spices and wellness products targeting health-conscious customers across India and the US via Amazon.
 
 ## Optimizing Pricing Strategy for Amazon India
 - Developed Excel-based pricing and profitability calculator for 250+ SKUs and recommended optimal MOQs or Combo strategies to prevent unit-level losses and improve margins.
